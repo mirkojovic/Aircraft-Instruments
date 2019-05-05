@@ -15,7 +15,7 @@
    viewBox="0 0 270.93333 270.93334"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Vertical_Speed_Indicator.svg">
   <defs
      id="defs2" />
@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37271146"
-     inkscape:cx="-852.73377"
-     inkscape:cy="412.59245"
+     inkscape:zoom="0.1317734"
+     inkscape:cx="-988.63316"
+     inkscape:cy="-802.00376"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1024"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-center="false"
@@ -43,7 +43,30 @@
      inkscape:measure-end="-1396.68,584.033"
      inkscape:snap-others="true"
      inkscape:snap-nodes="true"
-     inkscape:snap-object-midpoints="true" />
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="135.46666,135.46668"
+       orientation="-0.70710678,0.70710678"
+       id="guide836"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="135.46666,135.46668"
+       orientation="0.70710678,0.70710678"
+       id="guide838"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="135.46666,135.46668"
+       orientation="0,1"
+       id="guide840"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="135.46666,135.46668"
+       orientation="1,0"
+       id="guide842"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -52,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -273,16 +296,16 @@
      inkscape:label="Blueprint"
      style="display:inline">
     <image
-       sodipodi:absref="/media/mirko/2C8C16C58C16898A/Documents and Settings/mirko/Dropbox/Proyectos/Proyectos Inkscape/Instrumentos/Vrtical Speed Indicator/image3.jpg"
+       sodipodi:absref="D:\GitHub\Aircraft-Instruments\Piper-PA38\Vertical_Speed_Indicator\image3.jpg"
        xlink:href="image3.jpg"
-       style="display:inline;opacity:1"
-       transform="rotate(-1.1420974)"
-       width="605.29028"
-       height="453.96771"
-       preserveAspectRatio="none"
-       id="image37"
+       y="-118.32887"
        x="-684.87415"
-       y="-118.32887" />
+       id="image37"
+       preserveAspectRatio="none"
+       height="453.96771"
+       width="605.29028"
+       transform="rotate(-1.1420974)"
+       style="display:inline;opacity:1" />
     <rect
        style="opacity:1;fill:none;stroke:#ffff00;stroke-width:1.26334894;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect121"
