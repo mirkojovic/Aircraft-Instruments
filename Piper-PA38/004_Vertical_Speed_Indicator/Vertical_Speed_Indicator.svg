@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1317734"
-     inkscape:cx="-988.63316"
-     inkscape:cy="-802.00376"
+     inkscape:zoom="0.37271146"
+     inkscape:cx="-1202.8706"
+     inkscape:cy="412.59245"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -43,30 +43,7 @@
      inkscape:measure-end="-1396.68,584.033"
      inkscape:snap-others="true"
      inkscape:snap-nodes="true"
-     inkscape:snap-object-midpoints="true"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="135.46666,135.46668"
-       orientation="-0.70710678,0.70710678"
-       id="guide836"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="135.46666,135.46668"
-       orientation="0.70710678,0.70710678"
-       id="guide838"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="135.46666,135.46668"
-       orientation="0,1"
-       id="guide840"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="135.46666,135.46668"
-       orientation="1,0"
-       id="guide842"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:snap-object-midpoints="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -75,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -296,7 +273,7 @@
      inkscape:label="Blueprint"
      style="display:inline">
     <image
-       sodipodi:absref="D:\GitHub\Aircraft-Instruments\Piper-PA38\Vertical_Speed_Indicator\image3.jpg"
+       sodipodi:absref="D:\GitHub\Aircraft-Instruments\Piper-PA38\002_Vertical_Speed_Indicator\image3.jpg"
        xlink:href="image3.jpg"
        y="-118.32887"
        x="-684.87415"
