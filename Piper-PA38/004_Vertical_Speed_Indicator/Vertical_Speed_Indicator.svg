@@ -17,8 +17,8 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Vertical_Speed_Indicator.svg"
    inkscape:export-filename="D:\GitHub\Aircraft-Instruments\Piper-PA38\004_Vertical_Speed_Indicator\Vertical_Speed_Indicator.png"
-   inkscape:export-xdpi="75"
-   inkscape:export-ydpi="75">
+   inkscape:export-xdpi="68.910004"
+   inkscape:export-ydpi="68.910004">
   <defs
      id="defs2">
     <filter
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -369,7 +369,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Aguja"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:inline"
        id="g4921"

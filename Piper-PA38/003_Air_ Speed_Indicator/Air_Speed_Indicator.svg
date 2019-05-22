@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Air_Speed_Indicator.svg"
-   inkscape:export-filename="C:\Users\mirko.sanchez\Documents\Escuela\Air Speed Indicator\ASI_4.png"
-   inkscape:export-xdpi="35.330002"
-   inkscape:export-ydpi="35.330002">
+   inkscape:export-filename="D:\GitHub\Aircraft-Instruments\Piper-PA38\003_Air_ Speed_Indicator\IAS.png"
+   inkscape:export-xdpi="32.46056"
+   inkscape:export-ydpi="32.46056">
   <defs
      id="defs2">
     <filter
@@ -55,11 +55,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25854357"
-     inkscape:cx="582.10689"
-     inkscape:cy="1086.8574"
+     inkscape:zoom="0.13190998"
+     inkscape:cx="-653.04278"
+     inkscape:cy="1558.422"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer9"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -67,7 +67,7 @@
      fit-margin-bottom="0"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-center="true"
@@ -113,56 +113,6 @@
      id="layer9"
      inkscape:label="Dial_TAS"
      style="display:inline">
-    <rect
-       y="-324.72787"
-       x="-694.50043"
-       height="43.73399"
-       width="3.3292313"
-       id="rect220"
-       style="display:inline;opacity:1;fill:#55d400;stroke:none;stroke-width:0.34296289"
-       inkscape:transform-center-x="-142.68463"
-       inkscape:transform-center-y="210.2665"
-       transform="rotate(146)" />
-    <rect
-       transform="rotate(171)"
-       inkscape:transform-center-y="250.86731"
-       inkscape:transform-center-x="-40.453737"
-       style="display:inline;opacity:1;fill:#55d400;stroke:none;stroke-width:0.34296289"
-       id="rect222"
-       width="3.3292313"
-       height="43.73399"
-       x="-650.2572"
-       y="-27.65317" />
-    <rect
-       y="270.56168"
-       x="-429.82532"
-       height="43.73399"
-       width="3.3292313"
-       id="rect224"
-       style="display:inline;opacity:1;fill:#55d400;stroke:none;stroke-width:0.34296289"
-       inkscape:transform-center-x="94.530607"
-       inkscape:transform-center-y="235.87048"
-       transform="rotate(-158)" />
-    <rect
-       y="-191.79042"
-       x="-691.08856"
-       height="43.777725"
-       width="3.3325605"
-       id="rect228"
-       style="display:inline;opacity:1;fill:#55d400;stroke:none;stroke-width:0.34330586"
-       inkscape:transform-center-x="-99.942408"
-       inkscape:transform-center-y="233.62887"
-       transform="rotate(157)" />
-    <rect
-       transform="rotate(-128)"
-       inkscape:transform-center-y="157.00452"
-       inkscape:transform-center-x="199.80116"
-       style="display:inline;opacity:1;fill:#55d400;stroke:none;stroke-width:0.34296289"
-       id="rect252"
-       width="3.3292313"
-       height="43.73399"
-       x="-99.289536"
-       y="411.06329" />
     <rect
        y="44.751911"
        x="-424.32562"
@@ -1239,7 +1189,7 @@
      id="layer7"
      inkscape:label="Aguja"
      transform="translate(1026.9437,33.456976)"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="29.765703"

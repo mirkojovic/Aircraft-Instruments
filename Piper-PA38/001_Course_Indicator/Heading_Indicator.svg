@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Heading_Indicator.svg"
-   inkscape:export-filename="C:\Users\mirko\Dropbox\Proyectos\Proyectos Inkscape\Instrumentos\Course_Indicator\HDG_needle-2.png"
-   inkscape:export-xdpi="14.062501"
-   inkscape:export-ydpi="14.062501">
+   inkscape:export-filename="D:\GitHub\Aircraft-Instruments\Piper-PA38\001_Course_Indicator\course_Indicator.png"
+   inkscape:export-xdpi="75.000008"
+   inkscape:export-ydpi="75.000008">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="207.90088"
+     inkscape:cx="-164.84541"
      inkscape:cy="501.95772"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      showguides="true"
@@ -83,7 +83,7 @@
      inkscape:label="Circulo"
      style="display:inline">
     <ellipse
-       style="display:inline;fill:#333333;stroke:none;stroke-width:1.32291675;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:#000000;stroke:none;stroke-width:1.32291675;stroke-miterlimit:4;stroke-dasharray:none"
        id="path831"
        cx="135.46666"
        cy="135.46666"
@@ -1651,7 +1651,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Silueta_Avion"
-     style="display:inline">
+     style="display:none">
     <path
        style="display:inline;opacity:1;fill:#000000;stroke:#ffffff;stroke-width:2.64583325;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:1"
        d="m 124.84055,117.05937 -46.252348,36.35672 c -4.702264,5.12664 0,15.31918 0,15.31918 l 46.349298,-12.79678 -0.097,32.27206 -11.88563,14.86957 c -5.29538,6.82994 0.66946,11.93698 0.66946,11.93698 l 17.89826,-8.33058 3.94402,8.33058 3.45112,-8.33058 18.39116,8.33058 c 0,0 8.21385,-5.60588 1.97725,-11.93698 l -12.74127,-14.86957 -0.53223,-32.27206 43.28695,12.79678 c 0,0 5.29167,-10.78347 0,-15.31918 l -42.75467,-36.35672 -8.51229,-41.341191 -2.56597,-24.186758 -1.77786,24.186758 c 0,0 -7.64728,28.841941 -8.84825,41.341191 z"
