@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="132.83163mm"
-   height="132.83163mm"
-   viewBox="0 0 132.83163 132.83163"
+   width="134.40575mm"
+   height="134.40575mm"
+   viewBox="0 0 134.40574 134.40574"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Tachometer.svg">
+   sodipodi:docname="Tachometer.svg"
+   inkscape:export-filename="D:\GitHub\Aircraft-Instruments\Piper-PA38\_Tachometer\tachometer.png"
+   inkscape:export-xdpi="137.95541"
+   inkscape:export-ydpi="137.95541">
   <defs
      id="defs2">
     <linearGradient
@@ -47,9 +50,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5158"
-       x="-0.06"
+       x="-0.059999999"
        width="1.12"
-       y="-0.06"
+       y="-0.059999999"
        height="1.12">
       <feGaussianBlur
          inkscape:collect="always"
@@ -62,7 +65,7 @@
        id="filter5182"
        x="-0.041264463"
        width="1.0825289"
-       y="-0.37767305"
+       y="-0.37767306"
        height="1.7553461">
       <feGaussianBlur
          inkscape:collect="always"
@@ -161,9 +164,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5363"
-       x="-0.024634994"
+       x="-0.024634995"
        width="1.04927"
-       y="-0.087027127"
+       y="-0.087027125"
        height="1.1740543">
       <feGaussianBlur
          inkscape:collect="always"
@@ -179,10 +182,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9604"
-     inkscape:cx="105.20616"
-     inkscape:cy="262.26317"
+     inkscape:cx="108.18077"
+     inkscape:cy="265.23796"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -214,7 +217,7 @@
      inkscape:label="Blueprint"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-27.769684,-25.088554)"
+     transform="translate(-26.982652,-24.301522)"
      style="display:none">
     <image
        transform="rotate(-1.3256098)"
@@ -27566,7 +27569,8 @@ PaEnHgR64k2V3KrIuyo52b/+67/a/wuOGwi/ni7JVgAAAABJRU5ErkJggg==
      id="layer2"
      inkscape:label="fondo"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(0.78703206,0.78703206)">
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64583325;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0"
        id="path848"
@@ -27663,9 +27667,9 @@ PaEnHgR64k2V3KrIuyo52b/+67/a/wuOGwi/ni7JVgAAAABJRU5ErkJggg==
      id="layer3"
      inkscape:label="rangos"
      style="display:inline"
-     sodipodi:insensitive="true">
+     transform="translate(0.78703206,0.78703206)">
     <path
-       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.6216526;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0"
+       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.6216526;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0"
        d="M 250.76758,0.50976562 A 250.51146,250.51146 0 0 0 0.25585938,251.01953 250.51146,250.51146 0 0 0 20.210938,348.94727 L 52.332031,334.64648 A 215.55579,215.55579 0 0 1 35.212891,251.01953 215.55579,215.55579 0 0 1 250.76758,35.464844 215.55579,215.55579 0 0 1 447.2168,162.95312 l 32.25586,-13.6914 A 250.51146,250.51146 0 0 0 250.76758,0.50976562 Z"
        id="circle5040"
        transform="scale(0.26458333)"
@@ -27676,7 +27680,8 @@ PaEnHgR64k2V3KrIuyo52b/+67/a/wuOGwi/ni7JVgAAAABJRU5ErkJggg==
      id="layer4"
      inkscape:label="marcas"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(0.78703206,0.78703206)">
     <rect
        inkscape:transform-center-y="-2.8610229e-06"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.34642971;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0"
@@ -27784,7 +27789,8 @@ PaEnHgR64k2V3KrIuyo52b/+67/a/wuOGwi/ni7JVgAAAABJRU5ErkJggg==
      id="layer8"
      inkscape:label="leyendas"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(0.78703206,0.78703206)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.85040379px;line-height:1.25;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29626009"
@@ -27977,7 +27983,8 @@ PaEnHgR64k2V3KrIuyo52b/+67/a/wuOGwi/ni7JVgAAAABJRU5ErkJggg==
      id="layer7"
      inkscape:label="marco"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(0.78703206,0.78703206)">
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10.11851406;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0"
        d="M 251.01953,-2.9746094 A 253.99537,253.99537 0 0 0 -2.9746094,251.01953 253.99537,253.99537 0 0 0 251.01953,505.01562 253.99537,253.99537 0 0 0 505.01562,251.01953 253.99537,253.99537 0 0 0 251.01953,-2.9746094 Z m 0,6.6933594 A 247.30173,247.30173 0 0 1 498.32227,251.01953 247.30173,247.30173 0 0 1 251.01953,498.32227 247.30173,247.30173 0 0 1 3.71875,251.01953 247.30173,247.30173 0 0 1 251.01953,3.71875 Z"
@@ -28045,7 +28052,8 @@ PaEnHgR64k2V3KrIuyo52b/+67/a/wuOGwi/ni7JVgAAAABJRU5ErkJggg==
      id="layer6"
      inkscape:label="aguja"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     transform="translate(0.78703206,0.78703206)">
     <g
        id="g5373"
        inkscape:transform-center-x="11.411399"
