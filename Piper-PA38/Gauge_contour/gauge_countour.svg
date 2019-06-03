@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="894.82629mm"
+   height="894.82611mm"
+   viewBox="0 0 894.82627 894.82609"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="gauge_countour.svg"
+   inkscape:export-filename="D:\Steam\steamapps\common\X-Plane 11\Aircraft\Transformados\Piper PA-38 Tomahawk_mirko_3d_exported\3_cockpit.png"
+   inkscape:export-xdpi="22.25"
+   inkscape:export-ydpi="22.25">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter840"
+       x="-0.15976681"
+       width="1.3195336"
+       y="-0.18848352"
+       height="1.376967">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.57987217"
+         id="feGaussianBlur842" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.098811846"
+     inkscape:cx="246.10777"
+     inkscape:cy="2633.2894"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-center="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-256.01392,802.65899)">
+    <g
+       id="g875"
+       transform="matrix(8.7520137,0,0,8.7520137,-5452.9759,2753.8717)"
+       inkscape:export-xdpi="11.07"
+       inkscape:export-ydpi="11.07">
+      <circle
+         r="50.548874"
+         cy="-355.24597"
+         cx="703.427"
+         id="path832"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64583325;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0" />
+      <g
+         id="g855">
+        <path
+           style="opacity:0.65;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10.01406002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0"
+           d="M 4181.9863,76.558594 A 173.05233,173.05233 0 0 0 4008.9336,249.61133 173.05233,173.05233 0 0 0 4181.9863,422.66406 173.05233,173.05233 0 0 0 4355.0391,249.61133 173.05233,173.05233 0 0 0 4181.9863,76.558594 Z m 0,4.800781 a 168.25207,168.25207 0 0 1 168.252,168.251955 168.25207,168.25207 0 0 1 -168.252,168.25195 168.25207,168.25207 0 0 1 -168.2519,-168.25195 168.25207,168.25207 0 0 1 168.2519,-168.251955 z"
+           transform="matrix(0.26458333,0,0,0.26458333,-403.05685,-421.28897)"
+           id="circle824"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path830"
+           d="m 703.42701,-406.36713 a 51.121038,51.121038 0 0 0 -51.12115,51.12116 51.121038,51.121038 0 0 0 51.12115,51.12115 51.121038,51.121038 0 0 0 51.12118,-51.12115 51.121038,51.121038 0 0 0 -51.12118,-51.12116 z m 0,1.41819 a 49.703003,49.703003 0 0 1 49.70298,49.70297 49.703003,49.703003 0 0 1 -49.70298,49.70296 49.703003,49.703003 0 0 1 -49.70295,-49.70296 49.703003,49.703003 0 0 1 49.70295,-49.70297 z"
+           style="opacity:0.65;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.95823312;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g851">
+        <ellipse
+           style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64583325;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter840)"
+           id="path834"
+           cx="767.64496"
+           cy="123.34858"
+           rx="5.443152"
+           ry="1.7236648"
+           transform="rotate(-39.22217)" />
+        <ellipse
+           transform="matrix(0.00684948,-0.80093145,0.7694839,0.00712941,649.08564,258.94162)"
+           ry="1.7236648"
+           rx="5.443152"
+           cy="123.34858"
+           cx="767.64496"
+           id="ellipse844"
+           style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64583325;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter840)" />
+        <ellipse
+           style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64583325;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:40;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter840)"
+           id="ellipse846"
+           cx="767.64496"
+           cy="123.34858"
+           rx="5.443152"
+           ry="1.7236648"
+           transform="matrix(0.53566874,0.51238635,-0.51238635,0.53566874,321.60563,-778.6714)" />
+      </g>
+    </g>
+  </g>
+</svg>
